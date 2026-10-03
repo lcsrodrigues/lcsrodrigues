@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="DEVNOLOGIA — Tecnologia que simplifica">
+  <rect width="1280" height="320" rx="24" fill="#0A2627"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="24" fill="none" stroke="#1F4547"/>
+  <!-- ícone </> -->
+  <g transform="translate(96 88) scale(2.25)">
+    <rect width="64" height="64" rx="16" fill="#0F3B3D"/>
+    <g fill="none" stroke="#D4F25A" stroke-width="2.6" stroke-linejoin="miter">
+      <path d="M25.6 24 14 31.7 25.6 39.4"/>
+      <path d="M38.4 24 50 31.7 38.4 39.4"/>
+      <path d="M34.6 22.4 29.4 41"/>
+    </g>
+  </g>
+  <g font-family="'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-weight="700">
+    <text x="296" y="158" font-size="72" fill="#EAF2F0" letter-spacing="1"><tspan fill="#D4F25A">DEV_</tspan>NOLOG <tspan fill="#D4F25A">IA</tspan></text>
+    <text x="298" y="206" font-size="28" font-weight="500" fill="#9DB5B2">Tecnologia que simplifica.</text>
+  </g>
+  <text x="298" y="250" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" fill="#D4F25A" letter-spacing="2">POWER PLATFORM · SHAREPOINT · AUTOMAÇÃO · IA</text>
+</svg>
