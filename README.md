@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DEVNOLOGIA — Tecnologia que simplifica" width="100%">
+  <a href="https://devnologia.vercel.app"><img src="assets/banner.svg" alt="DEVNOLOGIA — Tecnologia que simplifica" width="100%"></a>
 </p>
 
 <h3 align="center">Olá, sou o Lucas 👋</h3>
@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://devnologia.vercel.app"><img src="https://img.shields.io/badge/Site-devnologia.vercel.app-D4F25A?style=for-the-badge&labelColor=0F3B3D" alt="Site DEVNOLOGIA"></a>
   <a href="https://www.linkedin.com/in/lcsrrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0F3B3D?style=for-the-badge&logo=linkedin&logoColor=D4F25A" alt="LinkedIn"></a>
-  <a href="mailto:lcs-rodrigues@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0F3B3D?style=for-the-badge&logo=maildotru&logoColor=D4F25A" alt="E-mail"></a>
+  <a href="mailto:devnologia@gmail.com"><img src="https://img.shields.io/badge/E--mail-0F3B3D?style=for-the-badge&logo=maildotru&logoColor=D4F25A" alt="E-mail"></a>
 </p>
 
 <h3>&lt;/&gt; O que faço</h3>
